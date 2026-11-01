@@ -205,7 +205,7 @@ body[data-audience="private"] #bijtelling,body[data-audience="private"] #keuze,b
 body[data-audience="private"] #regels{display:none}
 body[data-audience="private"] #scenarios .preset-grid{display:none}
 body[data-audience="private"] #v-load-ev,body[data-audience="private"] #v-load-benz{display:none}
-body[data-audience="private"] nav.main a[href="#bijtelling"],body[data-audience="private"] nav.main a[href="#keuze"],body[data-audience="private"] nav.main a[href="#rechtsvorm"],body[data-audience="private"] nav.main a[href="#regels"]{display:none}
+body[data-audience="private"] nav.main a[href="https://rijvanta.nl/#bijtelling"],body[data-audience="private"] nav.main a[href="https://rijvanta.nl/#keuze"],body[data-audience="private"] nav.main a[href="https://rijvanta.nl/#rechtsvorm"],body[data-audience="private"] nav.main a[href="https://rijvanta.nl/#regels"]{display:none}
 body[data-audience="private"] #lease .section-head p{max-width:70ch}
 body[data-audience="private"] .for-business{display:none}
 body[data-audience="business"] .for-private{display:none}
