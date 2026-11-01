@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Stroomlijn-nu.github.io/rijvanta/sitemap.xml
+Sitemap: https://rijvanta.nl/sitemap.xml
